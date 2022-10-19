@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "187358532498",
+    "project_id": "sofonbike",
+    "storage_bucket": "sofonbike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187358532498:android:9a0b9fdbc3aa969578674b",
+        "android_client_info": {
+          "package_name": "com.example.sofonbike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187358532498-2qc8d3osp3e5l47dsur8un22u56tb243.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq8xgZl9ycHsJYp0DWcgEr1_F9iIZX9tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187358532498-2qc8d3osp3e5l47dsur8un22u56tb243.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
